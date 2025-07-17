@@ -51,7 +51,7 @@ flowchart TD
 
 Este archivo implementa una Interfaz Humano-Máquina (HMI) con PyQt5 para controlar y visualizar el manipulador PhantomX Pincher X100 usando ROS 2 y servomotores Dynamixel.
 
-### 🔧 Funciones de Conversión
+### Funciones de Conversión
 
 #### `degrees_to_position(deg: float) -> int`
 Convierte un ángulo en grados al valor correspondiente del servo Dynamixel (rango 0–1023).
