@@ -105,3 +105,4 @@ Ventana principal de la interfaz gráfica, que permite:
 
 ---
 ## Simulación e Implementación
+> ⚠️ Poner videos.
