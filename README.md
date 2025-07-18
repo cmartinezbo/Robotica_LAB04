@@ -105,4 +105,6 @@ Ventana principal de la interfaz gráfica, que permite:
 
 ---
 ## Simulación e Implementación
-> ⚠️ Poner videos.
+
+[![Watch the video](https://img.youtube.com/vi/_YCTB0OJG8c/maxresdefault.jpg)](https://youtu.be/_YCTB0OJG8c)
+https://youtu.be/_YCTB0OJG8c
