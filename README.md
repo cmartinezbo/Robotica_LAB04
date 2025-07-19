@@ -17,11 +17,6 @@
 </div>
 
 <div align="justify"> 
-  
-## Plano de la Planta
-
-> ⚠️ Poner plano de la planta.
-
 
 ## Diagrama de flujo de acciones del robot
 
