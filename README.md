@@ -101,7 +101,7 @@ Ventana principal de la interfaz gráfica, que permite:
 ---
 ## Plano planta
 
-![Plano planta](Code/Planta)
+![Plano planta](Code/Planta.jpg)
 
 ---
 ## Simulación e Implementación
