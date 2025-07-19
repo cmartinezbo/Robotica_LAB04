@@ -101,7 +101,7 @@ Ventana principal de la interfaz gráfica, que permite:
 ---
 ## Plano planta
 
-![Plano planta](Code/pincher_control/Planta.jpg)
+![Plano de la planta](Code/pincher_control/Plano.jpg)
 
 ---
 ## Simulación e Implementación
