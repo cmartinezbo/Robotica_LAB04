@@ -99,6 +99,11 @@ Ventana principal de la interfaz gráfica, que permite:
 - Al cerrar la ventana, cierra ROS 2.
 
 ---
+## Plano planta
+
+![Plano planta](Code/Planta)
+
+---
 ## Simulación e Implementación
 
 [![Watch the video](https://img.youtube.com/vi/_YCTB0OJG8c/maxresdefault.jpg)](https://youtu.be/_YCTB0OJG8c)
